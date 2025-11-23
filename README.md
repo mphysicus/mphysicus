@@ -5,7 +5,6 @@ I am Prakhar Maurya, a fourth year BS-MS (Bachelor of Science-Master of Science)
 🔭I am interested in applying Machine Learning techniques to problems in Astronomy and Cosmology.
 
 - 📌: Pune, India
-- Online Webpage: [my personal page](https://mphysicus.github.io)
 
 [![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=mphysicus&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
 
