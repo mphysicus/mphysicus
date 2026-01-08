@@ -1,4 +1,4 @@
-8## Hi there 👋
+Hi there 👋
 
 I am Prakhar Maurya, a fourth year BS-MS (Bachelor of Science-Master of Science) student at the [Indian Institute of Science Education and Research (IISER) Pune](http://iiserpune.ac.in/).
 
